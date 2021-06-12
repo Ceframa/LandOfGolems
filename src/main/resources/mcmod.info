@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "LandOfGolems",
+    "name": "LandOfGolems",
+    "description": "A land full of golems as far as the eye can see.",
+    "version": "0.1.0",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Ceframa/LandOfGolems-mod",
+    "updateUrl": "",
+    "authorList": [
+      "Ceframa"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
